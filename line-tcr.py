@@ -27,7 +27,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" Ard Squad bot  􀔃􀄆red check mark􏿿
+helpMessage =""" Tree bot  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
 [Me]       Cek Akun Sendiri
@@ -79,8 +79,8 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,"ue11fc7860247c63bd3da149613a793f6"]
-admin=["ue11fc7860247c63bd3da149613a793f6"]
+Bots=[mid,Amid,Bmid,Cmid,"ucd886b532f581aa4de98af5898719392"]
+admin=["u9489706a45fcf78bea076c6b77f7067d"]
 wait = {
     'contact':False,
     'autoJoin':True,
