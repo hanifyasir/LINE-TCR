@@ -44,7 +44,6 @@ helpMessage =""" Tree  􀔃􀄆red check mark􏿿
 [All join] Invite All Bot
 [_namabot join] Invite Bot
 [Bye _namabot]  Leave Bot
-SSH BY @prmnt23 line.me/ti/p/~bukanwota48
 """
 
 Setgroup =""" Privacy Menu V.1 􀔃􀄆red check mark􏿿
@@ -52,7 +51,6 @@ Setgroup =""" Privacy Menu V.1 􀔃􀄆red check mark􏿿
 [Protect QR -- Qr on / off]
 [Mid Via Contact -- Contact On / Off]
 [Reject Invite -- Guest On / Off]
-SSH BY @prmnt23 line.me/ti/p/~bukanwota48
 """
 KAC=[cl,ki,kk,kc]
 mid = cl.getProfile().mid
