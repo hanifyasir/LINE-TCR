@@ -7,23 +7,15 @@ import time,random,sys,json,codecs,threading,glob,re
 
 cl = LINETCR.LINE()
 cl.login(qr=True)
+cl.loginResult()
 
-ki = LINETCR.LINE()
-ki.login(qr=True)
-
-kk = LINETCR.LINE()
-kk.login(qr=True)
-
-kc = LINETCR.LINE()
-kc.login(qr=True)
-
-cl
+ki = kk = kc = cl 
 
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" AMARTIO  􀔃􀄆red check mark􏿿
+helpMessage =""" Tree  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
 [Bot?]     Check Account Bot
