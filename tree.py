@@ -34,36 +34,36 @@ sys.setdefaultencoding('utf-8')
 helpMessage =""" AMARTIO  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
-[Bot?]     Cek Akun Bot
+[Bot?]     Check Account Bot
 [Jam Update] Update jam Bot
-[Id Group] Cek Id Group
+[Id Group] Check Id Group
 [Ginfo]    Group Info
-[Mid RA]   Cek All mid Bot
-[RA 1/2/3/4] Cek Mid Bot
-[Respon]   Cek Respon Bot
-[Speedbot] Cek Kecepatan Bot
-[Up]       Fungsi Spam Chat
-[Banlist]  Cek List Akun Banned
-[Gn namagroup] Ganti Nama Group
-[Cancel] Cancel User Masuk Group
-[Tag All]      Mention Semua User
-[Set View] Cek Privasi Group
-[Open Url]  Membuka Url Group
-[Close Url] Menutup Url Group
+[Mid RA]   Check All mid Bot
+[RA 1/2/3/4] Check Mid Bot
+[Respon]   Check Respon Bot
+[Speedbot] Check Speed Bot
+[Up]     Function Spam Chat
+[Banlist]  Check List Account Banned
+[Gn namagroup] Replace Name Group
+[Cancel] Cancel User Sign in Group
+[Tag All]      Mention All User
+[Set View] Check Privacy Group
+[Open Url]  Open Url Group
+[Close Url] Close Url Group
 
 􀔃􀅕red arrow right􏿿 Command Private
-[SetGroup] Menggatur Privasi Grup
+[SetGroup] Organize Privacy Grup
 [Banned @] Bann Target
 [Unban @]  Unbann Target
 [Kill @] Kick Target Bann
 [Nk @]   Kick Target User
-[All join] Invite Semua Bot
+[All join] Invite All Bot
 [_namabot join] Invite Bot
 [Bye _namabot]  Leave Bot
 SSH BY @prmnt23 line.me/ti/p/~bukanwota48
 """
 
-Setgroup =""" Privasi Menu V.1 􀔃􀄆red check mark􏿿
+Setgroup =""" Privacy Menu V.1 􀔃􀄆red check mark􏿿
 
 [Protect QR -- Qr on / off]
 [Mid Via Contact -- Contact On / Off]
@@ -77,7 +77,7 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["ub97ad75d8b14b70666a21b91c2026b5d","u738fbf1c5e4ec2430420722b0ee7211a","u8c5f27c6928da337a9dc455515cc7e29","ua44bcbfac0aee4bf11775eff984c6598"]
+admin=["u9489706a45fcf78bea076c6b77f7067d","ucd886b532f581aa4de98af5898719392","uf0df255db02eaad40927284f5ccf5a7d",""]
 wait = {
     'contact':True,
     'autoJoin':True,
