@@ -1,4 +1,4 @@
-# Line-TCR
+# LINE-TCR
 Line Bot TCR
 
 Cara Run bot tanpa pc atau di Android :
@@ -9,7 +9,7 @@ Cara Run bot tanpa pc atau di Android :
 - pip2 install thrift==0.9.3
 - pkg install git
 - pkg install nano
-- git clone https://github.com/fajrinard/Line-TCR
+- git clone https://github.com/treerachai/LINE-TCR
 - cd Line-TCR
 - python2 line-tcr.py
 - Selesai
