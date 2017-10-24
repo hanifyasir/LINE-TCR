@@ -1,7 +1,7 @@
 # LINE-TCR
 Line Bot TCR
 
-Cara Run bot tanpa pc atau di Android :
+Way Run bot without pc or of Android :
 - Download Termux & Install
 - pkg install python2
 - pip2 install rsa
@@ -12,4 +12,4 @@ Cara Run bot tanpa pc atau di Android :
 - git clone https://github.com/treerachai/LINE-TCR
 - cd Line-TCR
 - python2 line-tcr.py
-- Selesai
+- Done
